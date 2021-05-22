@@ -1,5 +1,7 @@
 # MTN-Ivory-Coast-Analysis
 Moringa School Independent Project Week 4 By George Maina.
+
+15/5/2021
 ### Description
 MTN is a telecomunication company in Ivory Coast. The objective of this project is to estab;lish ways by which MTN will upgrade its infrastructural technology for its mobile users in Ivory Coast.
 This project used historical data that covered three daysin the month of May 2012. MTN Africa offers three unique products to its customers. These products are sms,voice calls and data services.
